@@ -5,3 +5,8 @@
 *.json
 *.txt
 nb*.xml
+.idea/vcs.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
